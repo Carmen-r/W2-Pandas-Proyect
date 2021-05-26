@@ -1,12 +1,13 @@
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2021/w2-pandas-project/blob/master/images/portada.jpg)
+![portada](https://github.com/Carmen-r/W2-Pandas-Proyect/blob/main/images/pandas_image.jpg)
 
 # W2 Project - Data cleaning & wrangling
 
 ### PROJECT ABOUT PANDAS
 
-![panda.jpg](attachment:panda.jpg)
 
-The first project in ironhack has been an analysis of global shark attacks. For this we have used `Python`, which is a necessary tool to be able to sort the data and extract those that are useful. 
+The first project in [Ironhack][id] has been an analysis of global shark attacks. For this we have used `Python`, which is a necessary tool to be able to sort the data and extract those that are useful. 
+
+[id]: https://www.ironhack.com/es
 
 We have extracted a csv with data that was out of order and repeated, so we have had to clean it up and keep those that are useful.
 
@@ -27,17 +28,8 @@ In this part we have formulated the hypotheses and grouped those data that we ne
 
 `3. Number of attacks depending on the water activity you are doing.`
 
-### Visualization
-Through these graphs we have responded to the hypotheses formulated.
+### Conclusion
 
-1.
+Through the graphs we have responded to the hypotheses formulated.
 
-![1sth.svg](attachment:1sth.svg)
-
-2.
-![2nd.svg](attachment:2nd.svg)
-
-3. 
-![3rd.svg](attachment:3rd.svg)
-
-As can be seen in the graphs, the first hypothesis formulated is true, while the second is false.
+The first hypothesis formulated is true, while the second is false.
